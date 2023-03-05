@@ -5,4 +5,5 @@
 - git log - show history
 
 ## Merge types
-- fast forward
+- fast-forward
+- with merge commit
