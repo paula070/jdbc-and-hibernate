@@ -1,4 +1,6 @@
 package pl.sa.orange2.enumerable;
 
-public class Seasons {
+public enum Seasons {
+    WINTER,
+    SPRING
 }
